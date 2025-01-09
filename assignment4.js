@@ -1,2 +1,2 @@
-let x = 7 + 9 
+let x = 7 + 9;
 console.log(x)
